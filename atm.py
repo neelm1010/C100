@@ -15,7 +15,7 @@ class ATM:
             print("in account") 
         
 
-BMW=ATM(100, 350)
+Cash=ATM(100, 350)
        
-print(BMW.CashWithdrawal)
-BMW.withdrew()
+print(Cash.CashWithdrawal)
+Cash.withdrew()
